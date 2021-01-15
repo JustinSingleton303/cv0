@@ -1,0 +1,31 @@
+body{
+  background-color: #BBF6F6;
+
+}
+
+h1{
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.one{
+  text-align: center;
+}
+
+.a{
+  height: 200px;
+}
+
+.rc{
+  margin-left: 80%;
+}
+
+.mc{
+  margin-left: 15%;
+}
+
+.mm{
+  height: 200px;
+  margin-left: 30%;
+}
