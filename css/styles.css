@@ -6,14 +6,16 @@ body{
 }
 
 h1{
+
   font-size: 400%;
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  font-family: ;
+  font-family: sans-serif;
 }
 
 h2{
+  text-align: center;
   font-size: 250%
 }
 
@@ -35,11 +37,18 @@ h2{
 
 }
 
+.profile{
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+}
+
 .mc{
   margin-left: 15%;
 }
 
-.mm{
-  height: 200px;
-  margin-left: 30%;
+.skill-row{
+  margin-left: 25%;
+  width: 50%;
+  text-align: center;
 }
