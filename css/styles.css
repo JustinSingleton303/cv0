@@ -2,12 +2,19 @@ body{
   background-color: #BBF6F6;
   /*font-family: verdana, sans-serif;*/
   font-family: 'Montserrat', sans-serif;
+
 }
 
 h1{
+  font-size: 400%;
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
+  font-family: ;
+}
+
+h2{
+  font-size: 250%
 }
 
 .one{
