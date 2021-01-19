@@ -19,6 +19,14 @@ h2{
   font-size: 250%
 }
 
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  height: 0px;
+  width:5%;
+}
+
 .one{
   text-align: center;
 }
@@ -41,6 +49,7 @@ h2{
   text-align: center;
   width: 50%;
   margin-left: 25%;
+  margin-bottom: 100px;
 }
 
 .mc{
@@ -51,4 +60,5 @@ h2{
   margin-left: 25%;
   width: 50%;
   text-align: center;
+  margin-bottom:100px;
 }
